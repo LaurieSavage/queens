@@ -1,0 +1,30 @@
+baseURL = 'https://thequeensofthewest.band/'
+languageCode = 'en-au'
+title = 'The Queens of The West'
+theme = 'ananke'
+
+[deployment]
+ [[deployment.targets]]
+  name = 'production'
+  url = 'http://thequeensofthewest.band.s3-website-ap-southeast-2.amazonaws.com'
+
+[params]
+  logo = '/img/logo.svg'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Gigs'
+    pageRef = '/gigs'
+    weight = 20
+  [[menus.main]]
+    name = 'People'
+    pageRef = '/people'
+    weight = 30
+  [[menus.main]]
+    name = 'Videos'
+    pageRef = '/videos'
+    weight = 40
