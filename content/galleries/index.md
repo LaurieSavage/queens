@@ -6,4 +6,6 @@ featured_image = 'cover.png'
 featured_image_class = 'cover bg-top'
 +++
 
+*Some pictures*
+
 {{< gallery >}}
