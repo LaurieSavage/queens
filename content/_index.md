@@ -6,7 +6,7 @@ unlisted = true
 omit_header_text = true
 featured_image = 'img/QOTW_banner_1920-crop.jpg'
 layout = 'single'
-canonifyURL = true
+canonifyURLs = true
 +++
 
 # Who are the Queens of The West?

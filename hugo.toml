@@ -14,14 +14,13 @@ cover_dimmer_color = "bg-blue-30"
 custom_css = ["custom.css"]
 body_classes = "bg-near-white"
 
-
 [ananke.social]
 icon_path = "ananke/socials/%s.svg"
 
 [params.ananke.social.follow]
 new_window_icon = true
 icons = true
-networks = ["facebook", "instagram"]
+networks = ["facebook", "instagram", "bluesky", "mastodon"]
 
 [params.ananke.social.facebook]
 name = "facebook"
