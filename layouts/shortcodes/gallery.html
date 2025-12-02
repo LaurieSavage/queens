@@ -1,0 +1,13 @@
+{{ $images := .Page.Resources.Match "*.jpg" }}
+
+<div class="Gallery">
+	{{ range $images }}
+		<ul class='Gallery__item' style="float:left; list-style-type:none; padding:1px; margin:0px">
+			<li>
+			    <a href="{{ .RelPermalink }}">
+		    	  <img src="{{ .RelPermalink }}" height="250" />
+		    	</a>
+		    </li>
+		</ul>
+	{{ end }}
+</div>

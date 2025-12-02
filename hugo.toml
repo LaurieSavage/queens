@@ -1,0 +1,63 @@
+baseURL = 'https://thequeensofthewest.band/'
+languageCode = 'en-au'
+title = 'The Queens of The West'
+theme = 'ananke'
+
+[deployment]
+ [[deployment.targets]]
+  name = 'queens'
+  url = 's3://thequeensofthewest.band?region=ap-southeast-2'
+
+[params]
+site_logo = "img/logo.svg"
+cover_dimmer_color = "bg-blue-30"
+custom_css = ["custom.css"]
+body_classes = "bg-near-white"
+
+[ananke.social]
+icon_path = "ananke/socials/%s.svg"
+
+[params.ananke.social.follow]
+new_window_icon = true
+icons = true
+networks = ["facebook", "instagram"]
+
+[params.ananke.social.facebook]
+name = "facebook"
+url = "https://www.facebook.com/QueensOfTheWest"
+
+[params.ananke.social.instagram]
+username = "queensofthewestband"
+url = "https://www.instagram.com/queensofthewestband/"
+
+#[ananke.social.networks.facebook]
+#slug = "facebook"
+#label = "Facebook"
+#color = "#3b5998"
+#profile = "https://www.facebook.com/QueensOfTheWest"
+#icon = "facebook" # font awesome brand icon name
+#link = "https://facebook.com/sharer/sharer.php"
+
+[ananke.social.networks.facebook.particles]
+u = "permalink"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Gigs'
+    pageRef = '/gigs'
+    weight = 20
+  [[menus.main]]
+    name = 'People'
+    pageRef = '/people'
+    weight = 30
+  [[menus.main]]
+    name = 'Videos'
+    pageRef = '/videos'
+    weight = 40
+  [[menus.main]]
+    name = 'Gallery'
+    pageRef = '/galleries'
