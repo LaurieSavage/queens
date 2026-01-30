@@ -3,6 +3,7 @@ date = '2025-09-04T15:31:02+10:00'
 draft = false
 title = 'Sala Kord'
 featured_image = 'images/sala.jpg'
+omit_header_text = true
 weight = 80
 # summary = 'What the Tehran Metal Scene and Philosophy School lost we gained when Sala Kord packed his overnight bag and high-tailed it to Australia'
 +++

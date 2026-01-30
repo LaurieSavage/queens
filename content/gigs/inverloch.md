@@ -3,6 +3,7 @@ date = '2025-09-04T14:40:01+10:00'
 draft = false
 title = 'Queens of Inverloch'
 featured_image = 'images/Inverloch2.JPG'
+omit_header_text = true
 author = 'Laurie'
 weight = 30
 +++

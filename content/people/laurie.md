@@ -3,6 +3,7 @@ date = '2025-09-04T15:31:17+10:00'
 draft = false
 title = 'Laurie Savage'
 featured_image = 'images/Laurie.jpg'
+omit_header_text = true
 weight = 70
 # summary =  'I play saxophones with varying degrees of success.'
 +++

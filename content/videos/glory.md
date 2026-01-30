@@ -3,6 +3,7 @@ date = '2025-09-04T22:01:44+10:00'
 draft = false
 title = 'The glory of love'
 featured_image = 'images/megan_cropped.jpg'
+omit_header_text = true
 categories = ['notInFront']
 +++
 

@@ -3,6 +3,7 @@ date = '2025-09-04T15:31:09+10:00'
 draft = false
 title = 'Nicholas Albanis'
 featured_image = 'images/nicholas.jpg'
+omit_header_text = true
 weight = 60
 # summary = 'We love Nicholas and his lovely green guitar.'
 +++

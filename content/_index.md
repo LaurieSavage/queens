@@ -12,11 +12,9 @@ canonifyURLs = true
 
 # Who are the Queens of The West?
 
-**Find Out!** We play the last Sunday of the month at **The Catfish Bar** from 4:00 - 6:00pm, 30 Gertrude St, Fitzroy. 
+[So Long and thanks for all the Catfish]( {{< ref "gigs/catfish" >}} )
 
-*Our next gig is 21st December 4:00pm - 6:00pm and features various friends, join us for some fun.*
-
-![Party time](/images/PFQueensPizza-1200x1600.jpg)
+*Our next performance will be at the 2026 Port Fairy Jazz Festival, Feb. 13-15.*
 
 The Queens are a band featuring rich, 3-part, sassy, all-girl harmonies flavoured with jazz, blues and humour; these Melbourne Westies are fast becoming a musical tour de force.
 

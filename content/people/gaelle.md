@@ -3,6 +3,7 @@ date = '2025-09-04T15:30:21+10:00'
 draft = false
 title = 'Gaelle Horsley'
 featured_image = 'images/gaelle_cropped.jpg'
+omit_header_text = true
 weight = 10
 # summary = 'Gaelle persuaded four jazz, rock, and punk musicians that backing ukulele-playing, harmonising vocalists would be a lot of fun.'
 +++

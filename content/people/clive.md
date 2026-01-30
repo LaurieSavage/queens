@@ -3,6 +3,7 @@ date = '2025-09-04T15:30:56+10:00'
 draft = false
 title = 'Clive Bourne'
 featured_image = 'images/clive.jpg'
+omit_header_text = true
 weight = 50
 # summary = 'Our *de facto* Musical Director and bassist with golden ears and a propulsive drive'
 +++

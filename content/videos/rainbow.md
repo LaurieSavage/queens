@@ -3,6 +3,7 @@ date = '2025-09-04T21:57:30+10:00'
 draft = false
 title = 'I need a rainbow'
 featured_image = 'images/gaelle.jpg'
+omit_header_text = true
 categories = ['notInFront']
 +++
 

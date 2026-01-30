@@ -3,6 +3,7 @@ date = '2025-09-04T15:30:29+10:00'
 draft = false
 title = 'Megan Slattery'
 featured_image = 'images/megan_cropped.jpg'
+omit_header_text = true
 weight = 20
 # summary = 'Megan is a versatile, and busy person who enjoys downtime sitting with a good book somewhere in the bush'
 +++

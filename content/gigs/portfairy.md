@@ -3,6 +3,7 @@ date = '2025-09-05T09:34:27+10:00'
 draft = false
 title = 'At Port Fairy'
 featured_image = 'images/PF_church.jpg'
+omit_header_text = true
 weight = 30
 +++
 At the Port Fairy Jazz Festival again, here are some shots of The Queens of Port Fairy at the RSL and Uniting Church. The shots at St John's are lost, alas!

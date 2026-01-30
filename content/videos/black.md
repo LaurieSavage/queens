@@ -3,6 +3,7 @@ date = '2025-09-04T16:48:38+10:00'
 draft = false
 title = 'Your heart is as black as night'
 featured_image = 'images/steph1.jpg'
+omit_header_text = true
 categories = ['notInFront']
 +++
 

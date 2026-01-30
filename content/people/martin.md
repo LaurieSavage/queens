@@ -3,6 +3,7 @@ date = '2025-10-23T13:54:27+11:00'
 draft = true
 title = 'Martin Clifton'
 featured_image = "/images/QOTW_17.JPG" 
+omit_header_text = true
 weight = 150
 +++
 

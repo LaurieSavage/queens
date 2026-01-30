@@ -2,7 +2,8 @@
 date = '2025-09-07T14:25:22+10:00'
 draft = false
 title = 'Recording at RMIT'
-featured_image = 'images/header-spare.jpg'
+featured_image = 'img/shoes.png'
+omit_header_text = true
 weight = 100
 +++
 

@@ -2,6 +2,7 @@
 date = '2025-09-03T14:03:17+10:00'
 draft = false
 title = 'The Catfish Bar Residency, 2025'
+omit_header_text = true
 featured_image = 'images/IMG_4020.jpg'
 author = 'Laurie'
 weight = 10
@@ -9,7 +10,8 @@ weight = 10
 # summary_length = 5
 +++
 
-## The Next gig is 4:00pm, Sunday 21st December. See you there
+## So long and thanks for all the Catfish! 
+We had a great run at the Catfish Bar who let us play for over a year in their front bar. Lovely place, lovely people, we had fun and were always made to feel welcome.
 
 [The Catfish Bar, 30 Gertrude St, Fitzroy](https://thecatfish.com.au/)
 

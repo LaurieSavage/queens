@@ -3,6 +3,7 @@ date = '2025-09-04T15:30:49+10:00'
 draft = false
 title = 'Aneta Graham'
 featured_image = 'images/QOTW_17.JPG'
+omit_header_text = true
 weight = 140
 # summary = 'Aneta co-founded the Queens with Gaelle'
 +++

@@ -3,6 +3,7 @@ date = '2025-09-13T10:54:47+10:00'
 draft = true
 title = 'Festival of fifties'
 featured_image = '/images/nicholas02.jpg'
+omit_header_text = true
 +++
 
 ## Celebrations for Nick and Naomi
