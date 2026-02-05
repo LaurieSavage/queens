@@ -9,26 +9,28 @@ theme = 'ananke'
   url = 's3://thequeensofthewest.band?region=ap-southeast-2'
 
 [params]
-site_logo = "img/logo.svg"
-cover_dimmer_color = "bg-blue-30"
-custom_css = ["custom.css"]
-body_classes = "bg-near-white"
+  site_logo = "img/logo.svg"
+  cover_dimmer_color = "bg-blue-30"
+  custom_css = ["custom.css"]
+  body_classes = "bg-near-white"
+  dateFormat ="2. Jan 2005"
+  show_date = true
 
 [ananke.social]
-icon_path = "ananke/socials/%s.svg"
+  icon_path = "ananke/socials/%s.svg"
 
 [params.ananke.social.follow]
-new_window_icon = true
-icons = true
-networks = ["facebook", "instagram"]
+  new_window_icon = true
+  icons = true
+  networks = ["facebook", "instagram"]
 
 [params.ananke.social.facebook]
-name = "facebook"
-url = "https://www.facebook.com/QueensOfTheWest"
+  name = "facebook"
+  url = "https://www.facebook.com/QueensOfTheWest"
 
 [params.ananke.social.instagram]
-username = "queensofthewestband"
-url = "https://www.instagram.com/queensofthewestband/"
+  username = "queensofthewestband"
+  url = "https://www.instagram.com/queensofthewestband/"
 
 #[ananke.social.networks.facebook]
 #slug = "facebook"
@@ -51,13 +53,18 @@ u = "permalink"
     pageRef = '/gigs'
     weight = 20
   [[menus.main]]
+    name = 'News'
+    pageref = 'posts'
+    weight = 30
+  [[menus.main]]
     name = 'People'
     pageRef = '/people'
-    weight = 30
+    weight = 40
   [[menus.main]]
     name = 'Videos'
     pageRef = '/videos'
-    weight = 40
+    weight = 50
   [[menus.main]]
     name = 'Gallery'
     pageRef = '/galleries'
+    weight = 60
